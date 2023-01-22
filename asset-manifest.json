@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sahisnu-portfolio/static/css/main.99e33295.css",
+    "main.js": "/sahisnu-portfolio/static/js/main.b1147ca3.js",
+    "static/media/P_DWM.png": "/sahisnu-portfolio/static/media/P_DWM.a9bb9c230bfe77915d22.png",
+    "static/media/P_Hometitle.png": "/sahisnu-portfolio/static/media/P_Hometitle.62435abcb9728411ca06.png",
+    "static/media/me.png": "/sahisnu-portfolio/static/media/me.5a28de02a3aeea8bd279.png",
+    "static/media/P_Scribe.png": "/sahisnu-portfolio/static/media/P_Scribe.d6bc633603e38f837858.png",
+    "static/media/cv.pdf": "/sahisnu-portfolio/static/media/cv.f3ebb0ce683b69563e62.pdf",
+    "static/media/me-about.jpg": "/sahisnu-portfolio/static/media/me-about.d374c353e7be916abf15.jpg",
+    "static/media/P_CreditUK.jpg": "/sahisnu-portfolio/static/media/P_CreditUK.dba8b00ca33743dc02cc.jpg",
+    "static/media/P_SMM.jpg": "/sahisnu-portfolio/static/media/P_SMM.7a2a20401a67c54d82ce.jpg",
+    "static/media/P_GDPR.jpg": "/sahisnu-portfolio/static/media/P_GDPR.9d4f95f3754c3ee4b43f.jpg",
+    "index.html": "/sahisnu-portfolio/index.html",
+    "main.99e33295.css.map": "/sahisnu-portfolio/static/css/main.99e33295.css.map",
+    "main.b1147ca3.js.map": "/sahisnu-portfolio/static/js/main.b1147ca3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e33295.css",
+    "static/js/main.b1147ca3.js"
+  ]
+}
